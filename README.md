@@ -9,7 +9,7 @@ and translating content to facilitate further analysis and research.
 ### 1. parse_data_to_csv.py
 
 This script converts the Klarna Product Page Dataset into a CSV format. 
-Input folder structure expected is: data\\<locale>\\<Website>\\<ID>\\<Contains .html or .mhtml>
+Input folder structure expected is: `data\<locale>\<Website>\<ID>\<Contains .html or .mhtml>`
 
 The resulting CSV file contains the following columns: 
 - 'Name': The name of the product.
